@@ -46,7 +46,7 @@ export default () => {
             </div>
           </div>
           <div className="lg:w-1/4 ml-auto text-center lg:text-left p-5 pt-10">
-            <h4 className="b-line">{t("Sitemap")}</h4>
+            <h2 className="b-line">{t("Sitemap")}</h2>
             <nav className="flex flex-col w-auto mx-auto">
               <Link to="/" className="no-underline">
                 {t("Home")}
