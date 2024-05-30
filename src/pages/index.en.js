@@ -72,10 +72,10 @@ const Index = props => {
                <div className="xl:flex items-center py-0 gap-1">
                 <div className="xl:w-full p-5 flex flex-col items-center text-center bg-white mb-1">
                     <FontAwesomeIcon icon="globe-asia" className=" text-base" />
-                  <h3 className="my-2 text-base">
-                    {" "}
+                  <h2 className="my-2 text-base">
+                    
                     PSYCHOTHERAPY JAPAN. LLC
-                  </h3>
+                  </h2>
                   <div className="uppercase text-sm">Counseling &amp; Consulting</div>
                 </div>
             </div>
