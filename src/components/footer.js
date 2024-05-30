@@ -40,7 +40,7 @@ export default () => {
               className="inline-block mb-10 w-48"
               alt="Beyond Bleu"
             />
-            <h6>{t("Appointments and Inquiries")}</h6>
+            <h2>{t("Appointments and Inquiries")}</h2>
             <div>
               <strong>{t("Monday to Sunday (Everyday)")}</strong> 9:00~18:00      
             </div>
