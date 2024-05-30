@@ -46,7 +46,7 @@ export default () => {
             </div>
           </div>
           <div className="lg:w-1/4 ml-auto text-center lg:text-left p-5 pt-10">
-            <h2 className="b-line">{t("Sitemap")}</h2>
+            <h2 className="b-line text-3xl">{t("Sitemap")}</h2>
             <nav className="flex flex-col w-auto mx-auto">
               <Link to="/" className="no-underline">
                 {t("Home")}
@@ -72,7 +72,7 @@ export default () => {
             </nav>
           </div>
           <div className="lg:w-1/4 text-center lg:text-left p-5 pt-10">
-            <h4 className="b-line">{t("Contact me")}</h4>
+            <h2 className="b-line text-3xl">{t("Contact me")}</h2>
             <div>
               <a href="tel:03-5962-3883" className="no-underline">
                 <FontAwesomeIcon icon="phone" className="mr-2" />
