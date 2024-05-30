@@ -72,7 +72,7 @@ export default () => {
             </nav>
           </div>
           <div className="lg:w-1/4 text-center lg:text-left p-5 pt-10">
-            <h5 className="b-line text-3xl">{t("Contact me")}</h5>
+            <h2 className="b-line text-3xl">{t("Contact me")}</h2>
             <div>
               <a href="tel:03-5962-3883" className="no-underline">
                 <FontAwesomeIcon icon="phone" className="mr-2" />
