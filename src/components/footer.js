@@ -40,7 +40,7 @@ export default () => {
               className="inline-block mb-10 w-48"
               alt="Beyond Bleu"
             />
-            <h2 className="text-lg>{t("Appointments and Inquiries")}</h2>
+            <h2 className="text-lg">{t("Appointments and Inquiries")}</h2>
             <div>
               <strong>{t("Monday to Sunday (Everyday)")}</strong> 9:00~18:00      
             </div>
