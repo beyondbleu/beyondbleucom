@@ -33,7 +33,7 @@ const Index = props => {
                     <tbody>
                       <tr>              
                         <td>¥15,000</td>
-                        <td>¥20,000</td>
+                        <td>¥24,000</td>
                       </tr>
                       <tr>              
                         <td>50 minutes</td>
